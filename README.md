@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/pmmarinova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syazah" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=petya0111)
 
 
 ![petya0111's Streak](https://github-readme-streak-stats.herokuapp.com/?user=petya0111&theme=gruvbox&hide_border=true)
