@@ -6,7 +6,8 @@
 <a href="https://x.com/paspe0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paspe0111" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pmmarinova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syazah" height="30" width="40" /></a>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=petya0111&label=Profile%20views&color=0e75b6&style=flat" alt="petya0111" /> </p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 ![petya0111's Streak](https://github-readme-streak-stats.herokuapp.com/?user=petya0111&theme=gruvbox&hide_border=true)
