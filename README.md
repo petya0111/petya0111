@@ -8,8 +8,3 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=petya0111)
-
-
-![petya0111's Streak](https://github-readme-streak-stats.herokuapp.com/?user=petya0111&theme=gruvbox&hide_border=true)
-![petya0111's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petya0111&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-![petya0111's Stats](https://github-readme-stats.vercel.app/api?username=petya0111&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
